@@ -26,4 +26,6 @@ For more details on the problem and how to use LEM-IN, refer to the official pro
 
 [Official problem description](https://github.com/01-edu/public/tree/master/subjects/lem-in)
 
-Kudos to Sagar for his nice idea to have an audit script.
+Authors
+- [**Axel Wallström**](https://github.com/Falusvampen)
+- [**Sagar Yadav**](https://www.github.com/sagarishere)
